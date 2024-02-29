@@ -7,7 +7,7 @@ Currently pursuing my graduate studies in Computer Science (CS), I am deeply pas
 ## 🛠 Skills
 | Column 1                             | Column 2                                  | Column 3 |
 |--------------------------------------|-------------------------------------------|----------|
-|   Artificial Intelligence (AI)       |    Natural Language Processing (NLP)      | ![NLTK]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjX5f69LdGBLcAmdRWwZiJfl0vMK4yLhwqORrwEVeOqg&s](https://www.nltk.org/#))         |
+|   Artificial Intelligence (AI)       |    Natural Language Processing (NLP)      | ![NLTK](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjX5f69LdGBLcAmdRWwZiJfl0vMK4yLhwqORrwEVeOqg&s) |
 |                                      |    Speech Processing/Speech Recognition   |          |
 |                                      |    Computer Vision                        |          |
 |                                      |    Machine Learninig                      |          |  
