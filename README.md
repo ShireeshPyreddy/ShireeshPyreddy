@@ -11,6 +11,12 @@ Currently pursuing my graduate studies in Computer Science (CS), I am deeply pas
 - **Machine Learning & Deep Learning**
 - Basics of Reinforcement Learning and Computer Vision
 
+### Natural Language Processing (NLP) Libraries
+- NLTK ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=nlp&logoColor=white)
+- Spacy ![Spacy](https://img.shields.io/badge/Spacy-3776AB?style=flat-square&logo=nlp&logoColor=white)
+- Gensim ![Gensim](https://img.shields.io/badge/Gensim-3776AB?style=flat-square&logo=nlp&logoColor=white)
+- HuggingFace Transformers ![HuggingFace](https://img.shields.io/badge/HuggingFace-3776AB?style=flat-square&logo=nlp&logoColor=white)
+
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -27,7 +33,8 @@ Currently pursuing my graduate studies in Computer Science (CS), I am deeply pas
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-... *add other libraries similarly*
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-3776AB?style=flat-square&logo=scikit-learn&logoColor=white)
+
 
 ### Tools & Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -38,9 +45,10 @@ Currently pursuing my graduate studies in Computer Science (CS), I am deeply pas
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<!-- ## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) -->
 
 ## 📫 How to Reach Me
 
