@@ -1,13 +1,14 @@
 # Welcome to My GitHub Profile!
 
-## 🎓 About Me
+<!--## 🎓 About Me
 
-Currently pursuing my graduate studies in Computer Science (CS), I am deeply passionate about leveraging Artificial Intelligence to solve real-world problems. With a solid background as a Data Scientist/Machine Learning Engineer for over 5 years, I specialize in Natural Language Processing and Speech Processing. My expertise lies in using cutting-edge research, exploratory data analysis, and advanced algorithms to design and develop scalable solutions for diverse business needs.
+Currently pursuing my graduate studies in Computer Science (CS), I am deeply passionate about leveraging Artificial Intelligence to solve real-world problems. With a solid background as a Data Scientist/Machine Learning Engineer for over 5 years, I specialize in Natural Language Processing and Speech Processing. My expertise lies in using cutting-edge research, exploratory data analysis, and advanced algorithms to design and develop scalable solutions for diverse business needs.-->
 
+<!--
 ## 🛠 Skills
 | Column 1                             | Column 2                                  | Column 3 |
 |--------------------------------------|-------------------------------------------|----------|
-|   Artificial Intelligence (AI)       |    Natural Language Processing (NLP)      | ![NLTK](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjX5f69LdGBLcAmdRWwZiJfl0vMK4yLhwqORrwEVeOqg&s) |
+|   Artificial Intelligence (AI)       |    Natural Language Processing (NLP)      | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjX5f69LdGBLcAmdRWwZiJfl0vMK4yLhwqORrwEVeOqg&s" width="50" alt="Example Image"> |
 |                                      |    Speech Processing/Speech Recognition   |          |
 |                                      |    Computer Vision                        |          |
 |                                      |    Machine Learninig                      |          |  
@@ -61,7 +62,7 @@ Currently pursuing my graduate studies in Computer Science (CS), I am deeply pas
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Cloud Platforms
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) -->
 
 
 <!-- ## 📈 GitHub Stats
@@ -70,8 +71,8 @@ Currently pursuing my graduate studies in Computer Science (CS), I am deeply pas
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) or drop me an email at `your.email@example.com`.
+Feel free to connect with me on [LinkedIn](linkedin.com/in/shireeshpyreddy) or drop me an email at `pyreddyshireesh@gmail.com`.
 
----
+<!-- ---
 
-Looking forward to collaborating on innovative projects and pushing the boundaries of technology together!
+Looking forward to collaborating on innovative projects and pushing the boundaries of technology together!-->
