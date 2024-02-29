@@ -12,10 +12,10 @@ Currently pursuing my graduate studies in Computer Science (CS), I am deeply pas
 - Basics of Reinforcement Learning and Computer Vision
 
 ### Natural Language Processing (NLP) Libraries
-- NLTK ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=nlp&logoColor=white)
-- Spacy ![Spacy](https://img.shields.io/badge/Spacy-3776AB?style=flat-square&logo=nlp&logoColor=white)
-- Gensim ![Gensim](https://img.shields.io/badge/Gensim-3776AB?style=flat-square&logo=nlp&logoColor=white)
-- HuggingFace Transformers ![HuggingFace](https://img.shields.io/badge/HuggingFace-3776AB?style=flat-square&logo=nlp&logoColor=white)
+![NLTK]([https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=nlp&logoColor=white](https://www.google.com/url?sa=i&url=http%3A%2F%2Fivbhatt.com%2F&psig=AOvVaw3iXhnPSw1pqeyynti_SO42&ust=1709322877355000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDGwZKq0YQDFQAAAAAdAAAAABAE))
+![Spacy](https://img.shields.io/badge/Spacy-3776AB?style=flat-square&logo=nlp&logoColor=white)
+![Gensim](https://img.shields.io/badge/Gensim-3776AB?style=flat-square&logo=nlp&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-3776AB?style=flat-square&logo=nlp&logoColor=white)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
