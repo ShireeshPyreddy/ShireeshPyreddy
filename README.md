@@ -4,7 +4,7 @@
 
 Currently pursuing my graduate studies in Computer Science (CS), I am deeply passionate about leveraging Artificial Intelligence to solve real-world problems. With a solid background as a Data Scientist/Machine Learning Engineer for over 5 years, I specialize in Natural Language Processing and Speech Processing. My expertise lies in using cutting-edge research, exploratory data analysis, and advanced algorithms to design and develop scalable solutions for diverse business needs.-->
 
-<!--
+
 ## 🛠 Skills
 | Column 1                             | Column 2                                  | Column 3 |
 |--------------------------------------|-------------------------------------------|----------|
@@ -24,7 +24,7 @@ Currently pursuing my graduate studies in Computer Science (CS), I am deeply pas
 |                                      |    Data Processing                        |          |
 |                                      |    Data Visualization                     |          |
 
-
+<!--
 ### AI & Machine Learning
 - **Natural Language Processing & Speech Processing**
 - **Machine Learning & Deep Learning**
