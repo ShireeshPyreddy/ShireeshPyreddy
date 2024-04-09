@@ -6,20 +6,18 @@ Currently pursuing my graduate studies in Computer Science (CS), I am deeply pas
 
 
 ## 🛠 Skills
-| Column 1                             | Column 2                                  | Column 3 |
+|                                      |                                           |          |
 |--------------------------------------|-------------------------------------------|----------|
-|   Artificial Intelligence (AI)       |    Natural Language Processing (NLP)      | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjX5f69LdGBLcAmdRWwZiJfl0vMK4yLhwqORrwEVeOqg&s" width="50" alt="Example Image"> |
+|   Artificial Intelligence (AI)       |    Natural Language Processing (NLP)      |          |
 |                                      |    Speech Processing/Speech Recognition   |          |
 |                                      |    Computer Vision                        |          |
 |                                      |    Machine Learninig                      |          |  
 |                                      |    Deep Learning                          |          |
 |                                      |    Reinforcement Learning                 |          |
-|                                      |                                           |          |
 |   Software Development               |    Programming Languages                  |          |
 |                                      |    Databases                              |          |
 |                                      |    Cloud Platforms                        |          |
 |                                      |    Tools and Technologies                 |          |
-|                                      |                                           |          |
 |   Data Science/Data Analysis         |    Data Cleaning                          |          |
 |                                      |    Data Processing                        |          |
 |                                      |    Data Visualization                     |          |
