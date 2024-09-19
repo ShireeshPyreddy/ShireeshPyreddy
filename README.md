@@ -6,21 +6,22 @@ Currently pursuing my graduate studies in Computer Science (CS), I am deeply pas
 
 
 ## 🛠 Skills
-|                                      |                                           |          |
-|--------------------------------------|-------------------------------------------|----------|
-|   Artificial Intelligence (AI)       |    Natural Language Processing (NLP)      |          |
-|                                      |    Speech Processing/Speech Recognition   |          |
-|                                      |    Computer Vision                        |          |
-|                                      |    Machine Learninig                      |          |  
-|                                      |    Deep Learning                          |          |
-|                                      |    Reinforcement Learning                 |          |
-|   Software Development               |    Programming Languages                  |          |
-|                                      |    Databases                              |          |
-|                                      |    Cloud Platforms                        |          |
-|                                      |    Tools and Technologies                 |          |
-|   Data Science/Data Analysis         |    Data Cleaning                          |          |
-|                                      |    Data Processing                        |          |
-|                                      |    Data Visualization                     |          |
+|                                      |                                           |                                                                                                     |
+|--------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------|
+|   Artificial Intelligence (AI)       |    Natural Language Processing (NLP)      | NLTK, spaCy, Gensim, RASA, TextBlob, FastText, Hugging Face Transformers, AWS Comprehend, word2vec  |
+|                                      |    Speech Processing/Speech Recognition   | Librosa, Yaafe, Google Cloud Speech APIs, AWS Transcribe, Kaldi, pyAudioAnalysis, PyDub, Torchaudio |
+|                                      |    Computer Vision                        | OpenCV, Pillow, Torchvision                                                                         |
+|                                      |    Machine Learninig                      | Scikit-Learn,                                                                                       |  
+|                                      |    Deep Learning                          | PyTorch, Tensorflow, Keras                                                                          |
+|                                      |    Reinforcement Learning                 | OpenAI Gym                                                                                          |
+|                                      |    Generative AI                          | LangChain, OpenAI GPT-4                                                                             |                           
+|   Software Development               |    Programming Languages                  | Python, JavaScript, C++                                                                             |
+|                                      |    Databases                              | MongoDB, Neo4J, MySQL, Elasticsearch                                                                |
+|                                      |    Cloud Platforms                        | AWS, Google Cloud                                                                                   |
+|                                      |    Tools and Technologies                 | Git, Linux, Flask                                                                                   |
+|   Data Science/Data Analysis         |    Data Cleaning                          | Beautiful Soup                                                                                      |
+|                                      |    Data Processing                        | Pandas, Numpy, Spark, Hadoop, MapReduce                                                             |
+|                                      |    Data Visualization                     | Seaborn, Matplotlib, Power BI                                                                       |
 
 <!--
 ### AI & Machine Learning
