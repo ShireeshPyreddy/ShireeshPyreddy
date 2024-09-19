@@ -16,7 +16,7 @@ Currently pursuing my graduate studies in Computer Science (CS), I am deeply pas
 |                                      |    Reinforcement Learning                 | OpenAI Gym                                                                                          |
 |                                      |    Generative AI                          | LangChain, OpenAI GPT-4                                                                             |                           
 |   Software Development               |    Programming Languages                  | Python, JavaScript, C++                                                                             |
-|                                      |    Databases                              | MongoDB, Neo4J, MySQL, Elasticsearch                                                                |
+|                                      |    Databases                              | MongoDB, Neo4J, MySQL, Elasticsearch, ChromaDB                                                      |
 |                                      |    Cloud Platforms                        | AWS, Google Cloud                                                                                   |
 |                                      |    Tools and Technologies                 | Git, Linux, Flask                                                                                   |
 |   Data Science/Data Analysis         |    Data Cleaning                          | Beautiful Soup                                                                                      |
